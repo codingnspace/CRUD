@@ -1,0 +1,36 @@
+﻿/** {
+    border: 1px solid red !important;
+    box-sizing: border-box !important;
+}*/
+#createPage #submit{
+    font-size:1.2em
+}
+#card-panel {
+    position: absolute;
+    top: 38px;
+    display: inline-block;
+}
+li{
+    list-style:none;
+}
+
+#createPage, #readPage, #updatePage, #deletePage{
+    display:none;
+}
+#createPage #actor-form span{
+    font-size:2em;
+}
+body {
+    background-color:purple;
+    color:white;
+}
+
+.label {
+    text-align:right;
+    
+    font-size:2em;
+}
+
+#createPage #actor-form span {
+    font-size:2em;
+}
